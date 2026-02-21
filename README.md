@@ -69,7 +69,3 @@ The deep-dive view.
 ## Conclusion
 This dashboard demonstrates how **Power BI can transform raw job posting data into actionable insights**. It empowers users to slice, filter, and drill through data to understand the job market, benchmark compensation, and plan career moves or recruitment strategies effectively.
 
----
-
-### 📌 Author
-Developed by **Umeed Ansari** – Data professional specializing in Power BI, data engineering, and workflow automation.
